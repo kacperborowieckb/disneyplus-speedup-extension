@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Disney+ videos speed up",
+  "description": "Speeds up disney+ videos",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "duck.jpg",
+    "default_popup": "index.html"
+  },
+  "permissions": ["https://www.disneyplus.com/*/video/*"]
+}
